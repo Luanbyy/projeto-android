@@ -202,6 +202,6 @@ aside > ul {
     content: '';
 }
 
-footer strong {
+footer > #fim > strong {
     color: white;
 }

@@ -12,7 +12,6 @@ header {
 
 #titulo {
     font-family: 'Bebas Neue', sans-serif;
-    background-image: linear-gradient(to top, #235F1E, #3CA333);
     min-height: 160px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.384);
 }

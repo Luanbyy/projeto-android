@@ -6,6 +6,10 @@ body {
     background-color: #55e7489f;
 }
 
+header {
+    background-image: linear-gradient(to top, #235F1E, #3CA333);
+}
+
 #titulo {
     font-family: 'Bebas Neue', sans-serif;
     background-image: linear-gradient(to top, #235F1E, #3CA333);
@@ -40,7 +44,6 @@ body {
 }
 
 nav {
-    background-color: #235F1E;
     padding-bottom: 15px;
 }
 

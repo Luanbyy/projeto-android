@@ -201,3 +201,7 @@ aside > ul {
 #fim > a::after {
     content: '';
 }
+
+footer strong {
+    color: white;
+}

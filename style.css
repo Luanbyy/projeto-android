@@ -204,6 +204,6 @@ aside > ul {
 
 #nick {
     color: white;
-    text-shadow: 0px;
+    text-shadow: 0px 0px 0px;
     font-weight: bold;
 }
